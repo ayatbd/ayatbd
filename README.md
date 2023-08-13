@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **albehstione@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b7Qsu5ts0j2MzyfGXqKzVgBTdZKXhXnS/view?usp=sharing](https://drive.google.com/file/d/1b7Qsu5ts0j2MzyfGXqKzVgBTdZKXhXnS/view?usp=sharing)
+- 📄 Get my resume [https://drive.google.com/file/d/1b7Qsu5ts0j2MzyfGXqKzVgBTdZKXhXnS/view?usp=sharing](https://drive.google.com/file/d/1b7Qsu5ts0j2MzyfGXqKzVgBTdZKXhXnS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
