@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mongoose, NoSQL**
 
-- 👨‍💻 All of my projects are available at [https://musical-muffin-5cee4f.netlify.app](https://musical-muffin-5cee4f.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ayatbd.netlify.app](https://musical-muffin-5cee4f.netlify.app)
 
 - 💬 Ask me about **MERN**
 
