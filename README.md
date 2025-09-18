@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayatullah Beheshti</h1>
-<h3 align="center">A passionate React Developer from Bangladesh</h3>
+<h3 align="center">A passionate MernStack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayatbd&label=Profile%20views&color=0e75b6&style=flat" alt="ayatbd" /> </p>
 
