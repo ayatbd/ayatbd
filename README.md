@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayatbd&show_icons=true&locale=en" alt="ayatbd" /></p>
 
-https://nirzak-streak-stats.vercel.app/?user=ayatbd&theme=transparent&hide_border=false)<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayatbd&" alt="ayatbd" /></p>
