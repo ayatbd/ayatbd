@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayatbd.571" target="blank"><img src="https://img.shields.io/twitter/follow/ayatbd.571?logo=twitter&style=for-the-badge" alt="ayatbd.571" /></a> </p>
 
-- 🌱 I’m currently learning **NoSQL**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at https://ayatbd.netlify.app
 
